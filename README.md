@@ -54,7 +54,6 @@
 
 **Ufuk Cefaker**  
 Computer Vision Lab - Hacettepe University  
-Student ID: 2220356171
 
 ---
 
